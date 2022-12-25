@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "OpenPGP",
             url: "https://github.com/eaceto/ProtonCore-Crypto/raw/main/Crypto/Crypto.xcframework.zip",
-            checksum: "df8b96d7a46df3c7ddd41b09adba02b9824cf28d2239645dd7d8151525dd5bcb"
+            checksum: "ac8facc5f8717e8475cee3f791e4333959b592962bd8765120f4e6e3b70c24ff"
         ),
         .testTarget(
             name: "OpenPGPTests",
